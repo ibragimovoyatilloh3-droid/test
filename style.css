@@ -1,0 +1,17 @@
+
+li:nth-child(2n){
+background-color: aqua;
+}
+
+li:hover{
+background-color: gold;
+color: brown;
+border-left: 2px solid red;
+font-size: 20px;
+transition: all .4s ease;
+}
+*:active{
+color: red;
+}
+
+
